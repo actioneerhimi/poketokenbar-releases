@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 100 100" role="img" aria-label="Pokebar Poké Ball">
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff5b55"/><stop offset="1" stop-color="#e62539"/></linearGradient>
+    <linearGradient id="white" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e2e7ef"/></linearGradient>
+    <clipPath id="ball"><circle cx="50" cy="50" r="43"/></clipPath>
+  </defs>
+  <g clip-path="url(#ball)">
+    <circle cx="50" cy="50" r="43" fill="url(#white)"/>
+    <path d="M7 50a43 43 0 0 1 86 0Z" fill="url(#red)"/>
+    <path d="M0 50h100" stroke="#182333" stroke-width="6.88"/>
+  </g>
+  <circle cx="50" cy="50" r="43" fill="none" stroke="#182333" stroke-width="3.655"/>
+  <circle cx="50" cy="50" r="10.965" fill="#182333"/>
+  <circle cx="50" cy="50" r="7.0176" fill="url(#white)" stroke="#c6cdd8" stroke-width="0.55"/>
+</svg>
