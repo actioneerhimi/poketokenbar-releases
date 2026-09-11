@@ -6,11 +6,12 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download Pokebar 2.5.6](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.6/Pokebar-2.5.6.zip)
-or read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.6).
-The release is signed with Developer ID and notarized by Apple. It includes the
-new Poké Ball icon, a safer location for Quit, and the earlier final-form growth,
-menu-bar panel, and leaderboard battle fixes.
+[Download Pokebar 2.5.7](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.7/Pokebar-2.5.7.zip)
+or read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.7).
+The release is signed with Developer ID and notarized by Apple. Player profiles
+now show your record against each trainer, recent results, and a Battle button
+that stays visible as you scroll. Challenge their saved strategy immediately;
+they can see the result when they return and challenge you back.
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
 
@@ -26,8 +27,10 @@ remove that old application bundle after quitting it. Keep the app's Application
 Support data; Pokebar reuses it. Older builds need this one manual installation
 to enable the update channel.
 
-Quit is in the **⋯ menu at the top of Settings**. Both players need an active
-battle strategy before starting a leaderboard challenge.
+Quit is in the **⋯ menu at the top of Settings**. Eligible players without a
+published strategy receive **four Defends followed by six Attacks** automatically.
+Existing custom strategies and withdrawals are preserved. Both players need an
+active saved strategy, but their apps do not need to be open at the same time.
 
 The [transparent Poké Ball mark](assets/pokebar-mark.svg) is available as an SVG.
 
