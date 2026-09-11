@@ -4,10 +4,10 @@ This is the release channel for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download PokeTokenBar 2.5.4](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.4/PokeTokenBar-2.5.4.zip)
-or read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.4).
+[Download PokeTokenBar 2.5.5](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.5/PokeTokenBar-2.5.5.zip)
+or read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.5).
 This release is signed with Developer ID and notarized by Apple. It fixes
-menu-bar panel positioning and leaderboard profiles and battle challenges.
+final-form growth labels, alongside the menu-bar panel and leaderboard battle fixes.
 
 Requires macOS 14 or later. Release packages support Apple silicon and Intel Macs.
 
