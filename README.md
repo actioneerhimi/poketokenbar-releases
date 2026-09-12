@@ -6,15 +6,17 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.7 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.7/Pokebar-2.5.7-Installer.dmg)
-or [get the installer ZIP for sharing](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.7/Pokebar-2.5.7-Installer.zip).
+[Download the Pokebar 2.5.8 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.8/Pokebar-2.5.8-Installer.dmg)
+or [get the installer ZIP for sharing](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.8/Pokebar-2.5.8-Installer.zip).
 Open the DMG and drag **Pokebar → Applications**. If you downloaded the ZIP,
 unzip it first. The app and installer are signed with Developer ID and notarized
-by Apple. Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.7).
-Player profiles
-now show your record against each trainer, recent results, and a Battle button
-that stays visible as you scroll. Challenge their saved strategy immediately;
-they can see the result when they return and challenge you back.
+by Apple. Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.8).
+The leaderboard now has a compact D/M/Y | L selector in its top-right corner,
+plus a smaller personal token card that leaves more room for rankings. Totals
+use clear unit spacing, such as **3.81 B**. Lifetime counts saved synced history. Player profiles show your record against each
+trainer, recent results, and a Battle button that stays visible as you scroll.
+Challenge their saved strategy immediately; they can see the result when they
+return and challenge you back.
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
 
