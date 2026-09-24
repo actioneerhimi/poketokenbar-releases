@@ -6,16 +6,21 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.51 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.51/Pokebar-2.5.51-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.51/Pokebar-2.5.51.zip).
+[Download the Pokebar 2.5.52 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.52/Pokebar-2.5.52-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.52/Pokebar-2.5.52.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
 
-Shiny Charm now gives each future hatch a **30% shiny chance**, including for
-existing owners. Grey hover tooltips have been removed throughout the app.
+Bag & Shop now has **Type Eggs**, **Discovery Eggs**, and **1.5× / 2× / 3×
+evolution boosters**. Each booster expires one hour after activation, even while
+idle or with Pokebar closed. Battle items are removed from the store; existing
+stock remains usable on player profiles.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.51)
+Shiny Charm retains its permanent **30% shiny hatch chance**, and grey hover
+tooltips remain removed.
+
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.52)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
