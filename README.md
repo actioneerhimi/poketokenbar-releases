@@ -6,17 +6,17 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.8 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.8/Pokebar-2.5.8-Installer.dmg)
-or [get the installer ZIP for sharing](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.8/Pokebar-2.5.8-Installer.zip).
-Open the DMG and drag **Pokebar → Applications**. If you downloaded the ZIP,
-unzip it first. The app and installer are signed with Developer ID and notarized
-by Apple. Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.8).
-The leaderboard now has a compact D/M/Y | L selector in its top-right corner,
-plus a smaller personal token card that leaves more room for rankings. Totals
-use clear unit spacing, such as **3.81 B**. Lifetime counts saved synced history. Player profiles show your record against each
-trainer, recent results, and a Battle button that stays visible as you scroll.
-Challenge their saved strategy immediately; they can see the result when they
-return and challenge you back.
+[Download the Pokebar 2.5.51 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.51/Pokebar-2.5.51-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.51/Pokebar-2.5.51.zip).
+Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
+Pokebar to Applications. The app and installer are signed with Developer ID and
+notarized by Apple.
+
+Shiny Charm now gives each future hatch a **30% shiny chance**, including for
+existing owners. Grey hover tooltips have been removed throughout the app.
+
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.51)
+or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
 
