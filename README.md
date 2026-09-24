@@ -6,28 +6,32 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.52 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.52/Pokebar-2.5.52-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.52/Pokebar-2.5.52.zip).
+[Download the Pokebar 2.5.53 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.53/Pokebar-2.5.53-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.53/Pokebar-2.5.53.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
 
-Bag & Shop now has **Type Eggs**, **Discovery Eggs**, and **1.5× / 2× / 3×
-evolution boosters**. Each booster expires one hour after activation, even while
-idle or with Pokebar closed. Battle items are removed from the store; existing
-stock remains usable on player profiles.
+Pokémon now play **Anime Cries voices** when available. The 531-recording pack
+downloads automatically in the background on launch (47.5 MB once), then works
+offline. Game cries remain available during the download and for missing voices.
 
-Shiny Charm retains its permanent **30% shiny hatch chance**, and grey hover
-tooltips remain removed.
+Your **daily Rare Candy** arrives at a random time between **2 PM and 5 PM local
+time** after you code that day. The chosen time survives restarts; overdue gifts
+arrive on your next launch or wake. Starting after 5 PM grants the day's gift
+immediately, once per day.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.52)
+Includes Type Eggs, Discovery Eggs, timed evolution boosters, and the permanent
+30% Shiny Charm hatch chance from previous releases.
+
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.53)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
 
 ## Updating
 
-**Versions 2.5.4 and later:** use Settings → App → Updates → Check now.
+**Versions 2.5.4 and later:** use Settings → App → Updates → Check for updates.
 The update preserves your Pokémon progress and account. An in-app update may
 keep the old application filename while changing the displayed name to Pokebar.
 
