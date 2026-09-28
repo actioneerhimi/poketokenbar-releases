@@ -6,14 +6,18 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.57 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.57/Pokebar-2.5.57-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.57/Pokebar-2.5.57.zip).
+[Download the Pokebar 2.5.58 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.58/Pokebar-2.5.58-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.58/Pokebar-2.5.58.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
 
 Open the compact **Battle** icon from Home to **Change Pokémon**, **Edit strategy**, or **Find a battle**.
 Pokémon choices show Attack Points, and strategy editing opens directly.
+
+Choose **Settings → Style → SpriteCollab** for animated Mystery Dungeon sprites, walking pets and battle actions. Artist credits are included in Settings.
+
+Open **Battles → Damage calculator** for the offline Smogon calculator, including Pokémon, moves, stats, abilities, items and field effects. It uses generation-9 rules separately from Pokebar’s AP battles.
 
 Weekly limits award **one Rare Candy per 20% used**, up to five per week for each limit.
 Each app update also adds **one free Rare Candy** on its first launch.
@@ -33,7 +37,7 @@ immediately, once per day.
 Includes Type Eggs, Discovery Eggs, timed evolution boosters, and the permanent
 30% Shiny Charm hatch chance from previous releases.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.57)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.58)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
