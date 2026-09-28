@@ -6,11 +6,15 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.59 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.59/Pokebar-2.5.59-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.59/Pokebar-2.5.59.zip).
+[Download the Pokebar 2.5.60 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.60/Pokebar-2.5.60-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.60/Pokebar-2.5.60.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
+
+**Shiny Charm now guarantees a shiny after two consecutive non-shiny hatches.** The 30% chance remains on earlier hatches. Progress survives restarts and transfers, and the Bag shows when your next hatch is guaranteed.
+
+Type Egg and Discovery Egg are removed from the shop. Standard, Uncommon and Rare Eggs remain available; eggs already purchased keep their guarantees.
 
 Open the compact **Battle** icon from Home to **Change Pokémon**, **Edit strategy**, or **Find a battle**.
 Pokémon choices show Attack Points, and strategy editing opens directly.
@@ -30,10 +34,9 @@ time** after you code that day. The chosen time survives restarts; overdue gifts
 arrive on your next launch or wake. Starting after 5 PM grants the day's gift
 immediately, once per day.
 
-Includes Type Eggs, Discovery Eggs, timed evolution boosters, and the permanent
-30% Shiny Charm hatch chance from previous releases.
+Timed evolution boosters remain available from previous releases.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.59)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.60)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
