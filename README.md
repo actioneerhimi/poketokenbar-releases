@@ -6,13 +6,19 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.55 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.55/Pokebar-2.5.55-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.55/Pokebar-2.5.55.zip).
+[Download the Pokebar 2.5.56 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.56/Pokebar-2.5.56-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.56/Pokebar-2.5.56.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
 
-Player profiles now show the **Battle** button without the retired battle-item dropdown.
+Open **Battle** from Home to **Change Pokémon**, **Edit strategy**, or **Find a battle**.
+Pokémon choices show Attack Points, and strategy editing opens directly.
+
+Weekly limits award **one Rare Candy per 20% used**, up to five per week for each limit.
+Each app update also adds **one free Rare Candy** on its first launch.
+
+<img src="assets/battle-workflow.png" width="360" alt="Battle strategy with Change Pokémon, Find a battle, and Edit strategy">
 
 Click a Pokémon’s portrait in the **Pokédex** to hear its cry.
 Pokémon play **Anime Cries voices** when available. The 531-recording pack
@@ -27,7 +33,7 @@ immediately, once per day.
 Includes Type Eggs, Discovery Eggs, timed evolution boosters, and the permanent
 30% Shiny Charm hatch chance from previous releases.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.55)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.56)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
