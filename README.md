@@ -6,31 +6,22 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.66 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.66/Pokebar-2.5.66-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.66/Pokebar-2.5.66.zip).
+[Download the Pokebar 2.5.67 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.67/Pokebar-2.5.67-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.67/Pokebar-2.5.67.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
 
-Rare Candy stays on the Bag screen after use. **Use all** applies the confirmed quantity together.
+**Independent verification is now required.** Usage reports and new progression are saved privately online as pending claims. Existing server-approved Pokémon and recorded scores are retained. Uploaded local logs cannot award new approved growth, unlock Pokémon, or increase public rankings. Profile Pokémon must belong to the approved collection.
 
-The shiny star now appears inside the Pokémon’s rarity badge, beside the label.
+**Provider verification is not connected yet.** New token-based rewards, evolution, purchases, and item use remain on hold. Items stay in the Bag. The server-issued free starter and battles using approved Pokémon remain available.
 
-**The previous interface is restored.** The collection notice now uses a white card inside the Pokémon header, with equal margins. Open it once for an explanation; it stays hidden after reading. Rare Candy adds **100M XP** to the active Pokémon’s evolution progress, including usage-locked Pokémon. Server approval still governs unlocks and battles.
+Versions earlier than **2.5.67** require this update. Supported releases show **Needs update** and an Update button until a supported version is installed.
 
-Versions earlier than 2.5.64 require an update. Supported releases show **Needs update** in the menu bar and an Update button when a newer version is required; the notice stays until a supported version is installed.
-
-**Lower CPU use and server-approved Pokémon.** Eligible established collections affected by the legacy usage audit are preserved with their original identities and evolution progress. New growth and hatches still need accepted usage and server approval. Confirmed tampering applies **0.5× future game credit and pauses battles for 72 hours**; both restrictions then expire automatically. Ordinary usage mismatches do not trigger a penalty. Verification and new hatches require a connection.
-
-**Shiny Charm now guarantees a shiny after two consecutive non-shiny hatches.** The 30% chance remains on earlier hatches. Progress survives restarts and transfers, and the Bag shows when your next hatch is guaranteed.
-
-Type Egg and Discovery Egg are removed from the shop. Standard, Uncommon and Rare Eggs remain available; eggs already purchased keep their guarantees.
+The existing interface is retained, including the shiny star inside the rarity badge. The white collection notice opens an explanation and stays hidden after reading. The Bag shows **Verification pending** while its actions are on hold.
 
 Open the compact **Battle** icon from Home to **Change Pokémon**, **Edit strategy**, or **Find a battle**.
 Pokémon choices show Attack Points, and strategy editing opens directly.
-
-Weekly limits award **one Rare Candy per 20% used**, up to five per week for each limit.
-Each app update also adds **one free Rare Candy** on its first launch.
 
 <img src="assets/battle-workflow.png" width="360" alt="Battle strategy with Change Pokémon, Find a battle, and Edit strategy">
 
@@ -39,14 +30,11 @@ Pokémon play **Anime Cries voices** when available. The 531-recording pack
 downloads automatically in the background on launch (47.5 MB once), then works
 offline. Game cries remain available during the download and for missing voices.
 
-Your **daily Rare Candy** arrives at a random time between **2 PM and 5 PM local
-time** after you code that day. The chosen time survives restarts; overdue gifts
-arrive on your next launch or wake. Starting after 5 PM grants the day's gift
-immediately, once per day.
+Previously approved collections keep their identities and evolution progress. Confirmed tampering still applies **0.5× future game credit and a 72-hour battle suspension**. Ordinary pending verification does not apply that penalty.
 
-Timed evolution boosters remain available from previous releases.
+A modified client can still change its own local display. The server controls accepted Pokémon, growth, battle admission, and public progression; a local save is not proof of usage.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.66)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.67)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
