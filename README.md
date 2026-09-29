@@ -6,15 +6,17 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.64 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.64/Pokebar-2.5.64-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.64/Pokebar-2.5.64.zip).
+[Download the Pokebar 2.5.65 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.65/Pokebar-2.5.65-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.65/Pokebar-2.5.65.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
 
+The shiny star now appears inside the Pokémon’s rarity badge, beside the label.
+
 **The previous interface is restored.** The collection notice now uses a white card inside the Pokémon header, with equal margins. Open it once for an explanation; it stays hidden after reading. Rare Candy adds **100M XP** to the active Pokémon’s evolution progress, including usage-locked Pokémon. Server approval still governs unlocks and battles.
 
-This is a required update. This release shows **Needs update** in the menu bar and an Update button when a newer version is required; the notice stays until a supported version is installed. Older versions are blocked from server features.
+Versions earlier than 2.5.64 require an update. Supported releases show **Needs update** in the menu bar and an Update button when a newer version is required; the notice stays until a supported version is installed.
 
 **Lower CPU use and server-approved Pokémon.** Eligible established collections affected by the legacy usage audit are preserved with their original identities and evolution progress. New growth and hatches still need accepted usage and server approval. Confirmed tampering applies **0.5× future game credit and pauses battles for 72 hours**; both restrictions then expire automatically. Ordinary usage mismatches do not trigger a penalty. Verification and new hatches require a connection.
 
@@ -42,7 +44,7 @@ immediately, once per day.
 
 Timed evolution boosters remain available from previous releases.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.64)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.65)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
