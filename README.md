@@ -6,11 +6,13 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.65 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.65/Pokebar-2.5.65-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.65/Pokebar-2.5.65.zip).
+[Download the Pokebar 2.5.66 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.66/Pokebar-2.5.66-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.66/Pokebar-2.5.66.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
+
+Rare Candy stays on the Bag screen after use. **Use all** applies the confirmed quantity together.
 
 The shiny star now appears inside the Pokémon’s rarity badge, beside the label.
 
@@ -44,7 +46,7 @@ immediately, once per day.
 
 Timed evolution boosters remain available from previous releases.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.65)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.66)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
