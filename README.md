@@ -6,11 +6,13 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.61 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.61/Pokebar-2.5.61-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.61/Pokebar-2.5.61.zip).
+[Download the Pokebar 2.5.62 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.62/Pokebar-2.5.62-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.62/Pokebar-2.5.62.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
+
+**The previous interface is restored.** Version 2.5.62 brings back the original layout and styling. It is a required update: older versions cannot use server features. This release adds a blocking Update screen for future minimum-version requirements.
 
 **Lower CPU use and server-approved Pokémon.** Existing collections are checked against available usage. Excess Pokémon stay saved and lock until usage catches up. Confirmed tampering applies **0.5× future game credit and pauses battles for 72 hours**; both restrictions then expire automatically. Ordinary usage mismatches do not trigger a penalty. Verification and new hatches require a connection.
 
@@ -38,7 +40,7 @@ immediately, once per day.
 
 Timed evolution boosters remain available from previous releases.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.61)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.62)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
