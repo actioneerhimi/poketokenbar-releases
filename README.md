@@ -6,19 +6,19 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.67 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.67/Pokebar-2.5.67-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.67/Pokebar-2.5.67.zip).
+[Download the Pokebar 2.5.68 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.68/Pokebar-2.5.68-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.68/Pokebar-2.5.68.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
 
-**Independent verification is now required.** Usage reports and new progression are saved privately online as pending claims. Existing server-approved Pokémon and recorded scores are retained. Uploaded local logs cannot award new approved growth, unlock Pokémon, or increase public rankings. Profile Pokémon must belong to the approved collection.
+**Usage is checked on every sync.** Each report is credited up to a daily limit as it arrives, so progress within the limit evolves, hatches, and uses items normally. Usage above the limit is held for review, and a Pokémon whose growth claims more than the accepted usage stays locked until it catches up. Public rankings follow the same daily limit.
 
-**Provider verification is not connected yet.** New token-based rewards, evolution, purchases, and item use remain on hold. Items stay in the Bag. The server-issued free starter and battles using approved Pokémon remain available.
+**Why a limit rather than a check with the provider:** the providers offer no way to confirm a subscription's usage, and every number the app reports comes from your own Mac. The limit bounds what any report can earn; identities, hatches, and battle admission remain server-owned.
 
-Versions earlier than **2.5.67** require this update. Supported releases show **Needs update** and an Update button until a supported version is installed.
+Versions earlier than **2.5.68** require this update. Supported releases show **Needs update** and an Update button until a supported version is installed.
 
-The existing interface is retained, including the shiny star inside the rarity badge. The white collection notice opens an explanation and stays hidden after reading. The Bag shows **Verification pending** while its actions are on hold.
+The existing interface is retained, including the shiny star inside the rarity badge. The white collection notice opens an explanation and stays hidden after reading. The collection notice reads **Usage on hold** when a day exceeds the limit.
 
 Open the compact **Battle** icon from Home to **Change Pokémon**, **Edit strategy**, or **Find a battle**.
 Pokémon choices show Attack Points, and strategy editing opens directly.
@@ -30,11 +30,11 @@ Pokémon play **Anime Cries voices** when available. The 531-recording pack
 downloads automatically in the background on launch (47.5 MB once), then works
 offline. Game cries remain available during the download and for missing voices.
 
-Previously approved collections keep their identities and evolution progress. Confirmed tampering still applies **0.5× future game credit and a 72-hour battle suspension**. Ordinary pending verification does not apply that penalty.
+Previously approved collections keep their identities and evolution progress. Confirmed tampering still applies **0.5× future game credit and a 72-hour battle suspension**. A held day or a queued backlog does not apply that penalty.
 
 A modified client can still change its own local display. The server controls accepted Pokémon, growth, battle admission, and public progression; a local save is not proof of usage.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.67)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.68)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
