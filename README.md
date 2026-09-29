@@ -6,17 +6,17 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.63 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.63/Pokebar-2.5.63-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.63/Pokebar-2.5.63.zip).
+[Download the Pokebar 2.5.64 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.64/Pokebar-2.5.64-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.64/Pokebar-2.5.64.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
 
 **The previous interface is restored.** The collection notice now uses a white card inside the Pokémon header, with equal margins. Open it once for an explanation; it stays hidden after reading. Rare Candy adds **100M XP** to the active Pokémon’s evolution progress, including usage-locked Pokémon. Server approval still governs unlocks and battles.
 
-This is a required update: older versions cannot use server features, and supported builds show a blocking Update screen until upgraded.
+This is a required update. This release shows **Needs update** in the menu bar and an Update button when a newer version is required; the notice stays until a supported version is installed. Older versions are blocked from server features.
 
-**Lower CPU use and server-approved Pokémon.** Existing collections are checked against available usage. Excess Pokémon stay saved and lock until usage catches up. Confirmed tampering applies **0.5× future game credit and pauses battles for 72 hours**; both restrictions then expire automatically. Ordinary usage mismatches do not trigger a penalty. Verification and new hatches require a connection.
+**Lower CPU use and server-approved Pokémon.** Eligible established collections affected by the legacy usage audit are preserved with their original identities and evolution progress. New growth and hatches still need accepted usage and server approval. Confirmed tampering applies **0.5× future game credit and pauses battles for 72 hours**; both restrictions then expire automatically. Ordinary usage mismatches do not trigger a penalty. Verification and new hatches require a connection.
 
 **Shiny Charm now guarantees a shiny after two consecutive non-shiny hatches.** The 30% chance remains on earlier hatches. Progress survives restarts and transfers, and the Bag shows when your next hatch is guaranteed.
 
@@ -42,7 +42,7 @@ immediately, once per day.
 
 Timed evolution boosters remain available from previous releases.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.63)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.64)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
