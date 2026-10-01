@@ -6,8 +6,8 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.70 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.70/Pokebar-2.5.70-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.70/Pokebar-2.5.70.zip).
+[Download the Pokebar 2.5.71 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.71/Pokebar-2.5.71-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.71/Pokebar-2.5.71.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
@@ -16,7 +16,7 @@ notarized by Apple.
 
 **Why a limit rather than a check with the provider:** the providers offer no way to confirm a subscription's usage, and every number the app reports comes from your own Mac. The limit bounds what any report can earn; identities, hatches, and battle admission remain server-owned.
 
-Versions earlier than **2.5.70** require this update. Supported releases show **Needs update** and an Update button until a supported version is installed.
+Version **2.5.71** is required for a pending fresh collection start. Other accounts remain supported on 2.5.68 or later.
 
 The existing interface is retained, including the shiny star inside the rarity badge. The white collection notice opens an explanation and stays hidden after reading. The collection notice reads **Usage on hold** when a day exceeds the limit.
 
@@ -34,9 +34,9 @@ Previously approved collections keep their identities and evolution progress. Co
 
 A modified client can still change its own local display. The server controls accepted Pokémon, growth, battle admission, and public progression; a local save is not proof of usage.
 
-Version 2.5.70 fixes battle-win candy credit and saves held XP across restarts. Actual usage keeps accumulating growth while approval is pending.
+Version 2.5.71 applies assigned fresh eggs once after updating and syncing. The previous collection is backed up before the egg starts, and token totals and items are retained. It also includes the battle-win candy and held-XP fixes from 2.5.70.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.70)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.71)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
