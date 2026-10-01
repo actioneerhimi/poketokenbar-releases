@@ -34,7 +34,7 @@ Previously approved collections keep their identities and evolution progress. Co
 
 A modified client can still change its own local display. The server controls accepted Pokémon, growth, battle admission, and public progression; a local save is not proof of usage.
 
-Version 2.5.71 applies assigned fresh eggs once after updating and syncing. The previous collection is backed up before the egg starts, and token totals and items are retained. It also includes the battle-win candy and held-XP fixes from 2.5.70.
+Version 2.5.71 applies assigned fresh eggs once after updating and syncing. The previous collection is backed up before the egg starts, and token totals and items are retained. It also includes the battle-win candy and held-XP fixes from 2.5.70. Assigned fresh collections require server-issued reward receipts for new bonus XP; editable candy and boost records do not authorize growth. Normal token progress continues within the usage limits.
 
 Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.71)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
