@@ -6,8 +6,8 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.71 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.71/Pokebar-2.5.71-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.71/Pokebar-2.5.71.zip).
+[Download the Pokebar 2.5.72 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.72/Pokebar-2.5.72-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.72/Pokebar-2.5.72.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
@@ -17,6 +17,8 @@ notarized by Apple.
 **Why a limit rather than a check with the provider:** the providers offer no way to confirm a subscription's usage, and every number the app reports comes from your own Mac. The limit bounds what any report can earn; identities, hatches, and battle admission remain server-owned.
 
 Version **2.5.71** is required for a pending fresh collection start. Other accounts remain supported on 2.5.68 or later.
+
+**Large daily usage spikes are flagged.** The check compares the running UTC day with up to 14 completed days, requires at least 7 recorded days, and uses the largest of 100 million tokens, 4× the average, or the average plus 4 standard deviations. Flagged days are excluded from the baseline. Future usage XP earns at **0.5× for 72 hours**; retries do not extend it. The app shows **Suspicious usage** with its expiry. A statistical flag does not prove forgery or suspend battles. Existing tokens and Pokémon remain intact.
 
 The existing interface is retained, including the shiny star inside the rarity badge. The white collection notice opens an explanation and stays hidden after reading. The collection notice reads **Usage on hold** when a day exceeds the limit.
 
@@ -30,13 +32,15 @@ Pokémon play **Anime Cries voices** when available. The 531-recording pack
 downloads automatically in the background on launch (47.5 MB once), then works
 offline. Game cries remain available during the download and for missing voices.
 
-Previously approved collections keep their identities and evolution progress. Confirmed tampering still applies **0.5× future game credit and a 72-hour battle suspension**. A held day or a queued backlog does not apply that penalty.
+Previously approved collections keep their identities and evolution progress. Confirmed tampering still applies **0.5× future game credit and a 72-hour battle suspension**. Held days and queued backlogs are separate from daily outlier detection.
 
 A modified client can still change its own local display. The server controls accepted Pokémon, growth, battle admission, and public progression; a local save is not proof of usage.
 
 Version 2.5.71 applies assigned fresh eggs once after updating and syncing. The previous collection is backed up before the egg starts, and token totals and items are retained. It also includes the battle-win candy and held-XP fixes from 2.5.70. Assigned fresh collections require server-issued reward receipts for new bonus XP; editable candy and boost records do not authorize growth. Normal token progress continues within the usage limits.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.71)
+Version 2.5.72 also retains an approved leaderboard avatar while a new hatch or evolution awaits verification.
+
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.72)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
