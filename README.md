@@ -6,8 +6,8 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.73 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.73/Pokebar-2.5.73-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.73/Pokebar-2.5.73.zip).
+[Download the Pokebar 2.5.74 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.74/Pokebar-2.5.74-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.74/Pokebar-2.5.74.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
@@ -16,7 +16,7 @@ notarized by Apple.
 
 **Why a limit rather than a check with the provider:** the providers offer no way to confirm a subscription's usage, and every number the app reports comes from your own Mac. The limit bounds what any report can earn; identities, hatches, and battle admission remain server-owned.
 
-**Pokebar 2.5.73 is required for online sync and battles.**
+**Pokebar 2.5.74 is required for online sync and battles.**
 
 **Large daily usage spikes are flagged.** The check compares the running UTC day with up to 14 completed days, requires at least 7 recorded days, and uses the largest of 100 million tokens, 4× the average, or the average plus 4 standard deviations. Flagged days are excluded from the baseline. Future usage XP earns at **0.5× for 72 hours**; retries do not extend it. The app shows **XP reduced · 0.5×** with its expiry. A statistical flag does not prove forgery or suspend battles. Existing tokens and Pokémon remain intact.
 
@@ -27,7 +27,9 @@ Home keeps active restrictions visible until they clear. Locks explain how to re
 <img src="assets/xp-penalty-notice.png" width="360" alt="XP penalty notice showing half-rate earnings and its expiry">
 
 Open the compact **Battle** icon from Home to **Change Pokémon**, **Edit strategy**, or **Find a battle**.
-Pokémon choices show Attack Points, and strategy editing opens directly.
+Pokémon choices are ranked by current Attack Points and show HP, injury status, and recovery time. HP reduces attack power, and type advantages and resistances are 20%.
+
+Timed Defends counterattack and strengthen the following Attack, allowing a weaker Pokémon to win through strategy. Battles keep ten turns and the higher final score wins. New milestone rewards grant eggs only; previously claimed rewards remain preserved.
 
 <img src="assets/battle-workflow.png" width="360" alt="Battle strategy with Change Pokémon, Find a battle, and Edit strategy">
 
@@ -44,7 +46,7 @@ Version 2.5.71 applies assigned fresh eggs once after updating and syncing. The 
 
 Version 2.5.72 also retains an approved leaderboard avatar while a new hatch or evolution awaits verification.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.73)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.74)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
