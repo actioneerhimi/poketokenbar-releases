@@ -16,7 +16,7 @@ notarized by Apple.
 
 **Why a limit rather than a check with the provider:** the providers offer no way to confirm a subscription's usage, and every number the app reports comes from your own Mac. The limit bounds what any report can earn; identities, hatches, and battle admission remain server-owned.
 
-Version **2.5.71** is required for a pending fresh collection start. Other accounts remain supported on 2.5.68 or later.
+**Pokebar 2.5.73 is required for online sync and battles.**
 
 **Large daily usage spikes are flagged.** The check compares the running UTC day with up to 14 completed days, requires at least 7 recorded days, and uses the largest of 100 million tokens, 4× the average, or the average plus 4 standard deviations. Flagged days are excluded from the baseline. Future usage XP earns at **0.5× for 72 hours**; retries do not extend it. The app shows **XP reduced · 0.5×** with its expiry. A statistical flag does not prove forgery or suspend battles. Existing tokens and Pokémon remain intact.
 
