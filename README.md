@@ -6,8 +6,8 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.72 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.72/Pokebar-2.5.72-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.72/Pokebar-2.5.72.zip).
+[Download the Pokebar 2.5.73 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.73/Pokebar-2.5.73-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.73/Pokebar-2.5.73.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
@@ -18,9 +18,13 @@ notarized by Apple.
 
 Version **2.5.71** is required for a pending fresh collection start. Other accounts remain supported on 2.5.68 or later.
 
-**Large daily usage spikes are flagged.** The check compares the running UTC day with up to 14 completed days, requires at least 7 recorded days, and uses the largest of 100 million tokens, 4× the average, or the average plus 4 standard deviations. Flagged days are excluded from the baseline. Future usage XP earns at **0.5× for 72 hours**; retries do not extend it. The app shows **Suspicious usage** with its expiry. A statistical flag does not prove forgery or suspend battles. Existing tokens and Pokémon remain intact.
+**Large daily usage spikes are flagged.** The check compares the running UTC day with up to 14 completed days, requires at least 7 recorded days, and uses the largest of 100 million tokens, 4× the average, or the average plus 4 standard deviations. Flagged days are excluded from the baseline. Future usage XP earns at **0.5× for 72 hours**; retries do not extend it. The app shows **XP reduced · 0.5×** with its expiry. A statistical flag does not prove forgery or suspend battles. Existing tokens and Pokémon remain intact.
 
-The existing interface is retained, including the shiny star inside the rarity badge. The white collection notice opens an explanation and stays hidden after reading. The collection notice reads **Usage on hold** when a day exceeds the limit.
+Home keeps active restrictions visible until they clear. Locks explain how to resume evolution; XP penalties show their end time. New restrictions also trigger a macOS notification when **Pokémon notifications** and system permissions allow it. Refreshes and restarts do not repeat alerts. A day above its limit shows **Usage on hold**.
+
+<img src="assets/restriction-notice.png" width="360" alt="Active Pokémon lock stays visible after opening its details">
+
+<img src="assets/xp-penalty-notice.png" width="360" alt="XP penalty notice showing half-rate earnings and its expiry">
 
 Open the compact **Battle** icon from Home to **Change Pokémon**, **Edit strategy**, or **Find a battle**.
 Pokémon choices show Attack Points, and strategy editing opens directly.
@@ -40,7 +44,7 @@ Version 2.5.71 applies assigned fresh eggs once after updating and syncing. The 
 
 Version 2.5.72 also retains an approved leaderboard avatar while a new hatch or evolution awaits verification.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.72)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.73)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
