@@ -6,11 +6,13 @@ Pokebar is the new name for the custom PokeTokenBar build maintained by
 [actioneerhimi](https://github.com/actioneerhimi), based on
 [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar).
 
-[Download the Pokebar 2.5.74 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.74/Pokebar-2.5.74-Installer.dmg)
-or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.74/Pokebar-2.5.74.zip).
+[Download the Pokebar 2.5.75 installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.75/Pokebar-2.5.75-Installer.dmg)
+or [get the app ZIP](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.75/Pokebar-2.5.75.zip).
 Open the DMG and drag **Pokebar → Applications**. For the ZIP, unzip it and move
 Pokebar to Applications. The app and installer are signed with Developer ID and
 notarized by Apple.
+
+**Live Battles beta:** enable **Live Battles** in Settings → App → Beta, then choose **Live Battle** from Home or Battles. Choose one of four moves and watch both Pokémon’s attacks, hits, healing, and battle results.
 
 **Usage is checked on every sync.** Each report is credited up to a daily limit as it arrives, so progress within the limit evolves, hatches, and uses items normally. Usage above the limit is held for review, and a Pokémon whose growth claims more than the accepted usage stays locked until it catches up. Public rankings follow the same daily limit.
 
@@ -46,7 +48,7 @@ Version 2.5.71 applies assigned fresh eggs once after updating and syncing. The 
 
 Version 2.5.72 also retains an approved leaderboard avatar while a new hatch or evolution awaits verification.
 
-Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.74)
+Read [the release notes](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.75)
 or see [the latest release](https://github.com/actioneerhimi/poketokenbar-releases/releases/latest).
 
 Requires macOS 14 or later. Supports Apple silicon and Intel Macs.
