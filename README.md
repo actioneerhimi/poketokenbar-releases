@@ -2,7 +2,7 @@
 
 Download [Pokebar 2.5.81](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.81).
 
-Restores online Pokémon verification, leaderboards, and regular battles, with existing progress preserved. Fixes private battle-history crashes and improves history loading. Live Battles beta remains removed.
+This update is required to continue using Pokebar. Restores online Pokémon verification, leaderboards, and regular battles, with existing progress preserved. Fixes private battle-history crashes and improves history loading. Live Battles beta remains removed.
 
 Supports Apple Silicon and Intel Macs on macOS 14 or later. The app and installer are signed and notarized. Updates use the existing signed update feed.
 
