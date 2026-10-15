@@ -1,14 +1,20 @@
 # Pokebar releases
 
-Download [Pokebar 2.5.79](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.79).
+Download [Pokebar 2.5.81](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.81).
 
-Live Battles beta has been removed. Regular battles remain available. This release includes approved save recovery for recurring Pokémon locks and XP penalties.
+Restores online Pokémon verification, leaderboards, and regular battles, with existing progress preserved. Fixes private battle-history crashes and improves history loading. Live Battles beta remains removed.
 
 Supports Apple Silicon and Intel Macs on macOS 14 or later. The app and installer are signed and notarized. Updates use the existing signed update feed.
 
-- [Installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.79/Pokebar-2.5.79-Installer.dmg)
-- [App archive](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.79/Pokebar-2.5.79.zip)
-- [Checksums](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.79/SHA256SUMS)
+- [Installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.81/Pokebar-2.5.81-Installer.dmg)
+- [App archive](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.81/Pokebar-2.5.81.zip)
+- [Checksums](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.81/SHA256SUMS)
+
+## Usage history and pet reactions
+
+History on Home's usage card shows daily tokens for the last 7, 30, or 90 UTC days across every tool, with cost, daily average, busiest day, and per-tool and per-model shares. Today's bar matches Home; older days are read from the logs on your Mac.
+
+The floating pet reacts to your coding agents: it works along while they run, gets in the zone after 45 unbroken minutes, sweats near a limit, naps when they're idle, and celebrates when a long session wraps. Turn this off in Settings → Floating pet → React to your agents.
 
 ## Battle strategies
 
