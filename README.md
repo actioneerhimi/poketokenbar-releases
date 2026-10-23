@@ -1,6 +1,8 @@
 # Pokebar releases
 
-Download [Pokebar 2.5.84](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.84).
+Download [Pokebar 2.5.85](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.85).
+
+Turn on Auto strategy in Battles → Battle strategy to change your move order daily at UTC reset and after every defeat. Earn Legendary Eggs at 100, 200, 300… lifetime wins, and Rare Eggs at 50, 150, 250… wins. Earned eggs arrive in your Bag once per milestone.
 
 Rare Candy stacks now stop when the current form is ready and keep surplus candies in the Bag. Approved candy refunds arrive once after updating and syncing. Free eggs also work after finishing an older Pokémon from the collection.
 
@@ -14,9 +16,9 @@ Online Pokémon verification, leaderboards and regular battles keep existing pro
 
 Supports Apple Silicon and Intel Macs on macOS 14 or later. The app and installer are signed and notarized. Updates use the existing signed update feed.
 
-- [Installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.84/Pokebar-2.5.84-Installer.dmg)
-- [App archive](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.84/Pokebar-2.5.84.zip)
-- [Checksums](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.84/SHA256SUMS)
+- [Installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.85/Pokebar-2.5.85-Installer.dmg)
+- [App archive](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.85/Pokebar-2.5.85.zip)
+- [Checksums](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.85/SHA256SUMS)
 
 ## Usage history and pet reactions
 
