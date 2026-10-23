@@ -1,16 +1,20 @@
 # Pokebar releases
 
-Download [Pokebar 2.5.82](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.82).
+Download [Pokebar 2.5.83](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.83).
 
 Export a problem report from Settings or a Pokémon verification notice. Preview the report, save it as a text file, and attach it to Slack yourself. Pokebar does not send reports automatically.
+
+Legendary Eggs cost 10B tokens and guarantee a Legendary or Mythical Pokémon. Mint, Rare Egg and evolution boosters are removed from the shop.
+
+Report sits immediately left of Retry and includes the current verification issue. Leaderboard entries with no token activity in the last seven days are hidden and return automatically with new activity.
 
 Online Pokémon verification, leaderboards and regular battles keep existing progress. Live Battles beta remains removed.
 
 Supports Apple Silicon and Intel Macs on macOS 14 or later. The app and installer are signed and notarized. Updates use the existing signed update feed.
 
-- [Installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.82/Pokebar-2.5.82-Installer.dmg)
-- [App archive](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.82/Pokebar-2.5.82.zip)
-- [Checksums](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.82/SHA256SUMS)
+- [Installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.83/Pokebar-2.5.83-Installer.dmg)
+- [App archive](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.83/Pokebar-2.5.83.zip)
+- [Checksums](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.83/SHA256SUMS)
 
 ## Usage history and pet reactions
 
