@@ -1,6 +1,6 @@
 # Pokebar releases
 
-Download [Pokebar 2.5.86](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.86).
+Download [Pokebar 2.5.87](https://github.com/actioneerhimi/poketokenbar-releases/releases/tag/v2.5.87).
 
 Turn on Auto strategy in Battles → Battle strategy to change your move order daily at UTC reset and after every defeat. Earn Legendary Eggs at 100, 200, 300… lifetime wins, and Rare Eggs at 50, 150, 250… wins. Earned eggs arrive in your Bag once per milestone.
 
@@ -8,7 +8,7 @@ Rare Candy can now finish an incubating egg and saves unused XP for the hatched 
 
 Export a problem report from Settings or a Pokémon verification notice. Preview the report, save it as a text file, and attach it to Slack yourself. Pokebar does not send reports automatically.
 
-Legendary Eggs cost 10B tokens and guarantee a Legendary or Mythical Pokémon. Mint, Rare Egg and evolution boosters are removed from the shop.
+New Legendary Eggs cost 5B tokens after updating to 2.5.87 and guarantee a Legendary or Mythical Pokémon. Purchases made before updating keep their original 10B accounting. Other prices and rewards are unchanged. Mint, Rare Egg and evolution boosters remain removed from the shop.
 
 Report sits immediately left of Retry and includes the current verification issue. Leaderboard entries with no token activity in the last seven days are hidden and return automatically with new activity.
 
@@ -16,9 +16,9 @@ Online Pokémon verification, leaderboards and regular battles keep existing pro
 
 Supports Apple Silicon and Intel Macs on macOS 14 or later. The app and installer are signed and notarized. Updates use the existing signed update feed.
 
-- [Installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.86/Pokebar-2.5.86-Installer.dmg)
-- [App archive](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.86/Pokebar-2.5.86.zip)
-- [Checksums](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.86/SHA256SUMS)
+- [Installer](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.87/Pokebar-2.5.87-Installer.dmg)
+- [App archive](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.87/Pokebar-2.5.87.zip)
+- [Checksums](https://github.com/actioneerhimi/poketokenbar-releases/releases/download/v2.5.87/SHA256SUMS)
 
 ## Usage history and pet reactions
 
